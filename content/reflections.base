@@ -1,0 +1,28 @@
+formulas:
+  Отражение: file.asLink(aliases)
+  Цвет: image(file.tags.filter(value.toString().contains("цвет")).toString().replace("#цвет/","")+".png")
+  Работник: file.tags.filter(value.toString().contains("работник")).toString().replace("#отражение/работник/","")
+  Проекция: file("_"+file.tags.filter(value.toString().contains("проекция")).toString().replace("#отражение/проекция/","").replace("_"," ")).asLink(file("_"+file.tags.filter(value.toString().contains("проекция")).toString().replace("#отражение/проекция/","").replace("_"," ")).properties.title)
+properties:
+  note.color:
+    displayName: Цвет
+views:
+  - type: table
+    name: Таблица
+    filters:
+      and:
+        - file.hasTag("отражение")
+    order:
+      - formula.Цвет
+      - formula.Отражение
+      - formula.Работник
+      - formula.Проекция
+    sort:
+      - property: formula.Цвет
+        direction: ASC
+      - property: color
+        direction: ASC
+    columnSize:
+      formula.Цвет: 80
+    image: formula.Цвет
+    imageFit: contain
