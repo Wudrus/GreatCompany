@@ -1,0 +1,30 @@
+formulas:
+  Название: file.asLink(file.properties.title)
+  Категория: file.tags.filter(value.toString().contains("история")).toString().replace("#история/","")
+  Персонажи: file.properties.description
+  Завершение: if(file.properties.completion==true,"🟩",if(file.properties.completion==false,"🟨",if(file.properties.completion==null,"🟥")))
+properties:
+  formula.Персонажи:
+    displayName: Краткое описаний
+  note.description:
+    displayName: Краткое описание
+  note.category:
+    displayName: Категория
+views:
+  - type: table
+    name: Таблица
+    filters:
+      and:
+        - file.inFolder("silent_revenge_office/main_story/_headers")
+        - file.ext == "md"
+    order:
+      - formula.Завершение
+      - formula.Название
+      - category
+      - description
+    sort:
+      - property: formula.Название
+        direction: ASC
+    columnSize:
+      formula.Название: 131
+    rowHeight: medium
