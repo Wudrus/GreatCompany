@@ -1,8 +1,6 @@
 ---
 publish: true
 title: Great Company Wiki
-created: 2026-06-10T19:51:43.935+03:00
-modified: 2026-06-10T19:05:27.409+03:00
 ---
 
 # Документы
