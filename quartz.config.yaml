@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: ru-RU
-  baseUrl: wudrus.github.io/GreatCompany
+  baseUrl: wudrus.github.io
   ignorePatterns:
     - private
     - templates
