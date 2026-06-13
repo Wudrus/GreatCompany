@@ -165,4 +165,4 @@ category: Пролог
 	</tr>
 </table>
 
-[[firsttask|0]] - [[0-3|<=]] - 4
+[[firsttask|0]] - [[0-3_clerks|<=]] - 4

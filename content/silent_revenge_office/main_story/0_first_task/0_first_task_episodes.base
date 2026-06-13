@@ -11,11 +11,11 @@ views:
     name: Таблица
     filters:
       and:
-        - file.inFolder("silent_revenge_office/main_story/first_task")
+        - file.inFolder("silent_revenge_office/main_story/0_first_task")
+        - file.ext == "md"
     order:
       - formula.Завершение
       - formula.Название
-      - category
       - description
     columnSize:
       formula.Название: 165

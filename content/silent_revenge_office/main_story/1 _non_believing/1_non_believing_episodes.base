@@ -1,0 +1,22 @@
+formulas:
+  Название: file.asLink(file.properties.title)
+  Завершение: if(file.properties.completion==true,"🟩",if(file.properties.completion==false,"🟨",if(file.properties.completion==null,"🟥")))
+properties:
+  note.description:
+    displayName: Краткое описание
+  note.category:
+    displayName: Категория
+views:
+  - type: table
+    name: Таблица
+    filters:
+      and:
+        - file.inFolder("silent_revenge_office/main_story/1 _non_believing")
+        - file.ext == "md"
+    order:
+      - formula.Завершение
+      - formula.Название
+      - description
+    columnSize:
+      formula.Название: 165
+    rowHeight: medium
