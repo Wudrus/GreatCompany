@@ -20,7 +20,7 @@
                   "state": {
                     "file": "silent_revenge_office/reflections/reflections/wudrus-great-group.md",
                     "mode": "source",
-                    "source": false
+                    "source": true
                   },
                   "icon": "lucide-file",
                   "title": "wudrus-great-group"
@@ -285,8 +285,9 @@
   "active": "79ac759fbec93b32",
   "lastOpenFiles": [
     "silent_revenge_office/reflections/reflections/wudrus-great-group.md",
-    "silent_revenge_office/reflections/reflections/wudrus-lcorp.md",
+    "silent_revenge_office/reflections/index.md",
     "silent_revenge_office/reflections/reflections.base",
+    "silent_revenge_office/reflections/reflections/wudrus-lcorp.md",
     "silent_revenge_office/reflections/reflections/wudrus-citys-hands.md",
     "silent_revenge_office/reflections/reflections/wudrus-sinner.md",
     "silent_revenge_office/reflections/reflections/wudrus-oufi.md",
@@ -297,7 +298,6 @@
     "silent_revenge_office/reflections/reflections/wudrus-tcorp.md",
     "silent_revenge_office/reflections/reflections/wudrus-silent-revenge.md",
     "silent_revenge_office/reflections/reflections/wudrus-zwei.md",
-    "silent_revenge_office/reflections/index.md",
     "silent_revenge_office/main_story/header.base",
     "silent_revenge_office/reflections/reflections",
     "silent_revenge_office/neotes/reflections.md",
@@ -314,7 +314,6 @@
     "silent_revenge_office/main_story/0_first_task/0-2_field.md",
     "silent_revenge_office/main_story/0_first_task/0-1_arrival.md",
     "templates/sro/том.md",
-    "templates/sro/уголь.md",
     "templates/sro",
     "templates/reflection",
     "templates"
