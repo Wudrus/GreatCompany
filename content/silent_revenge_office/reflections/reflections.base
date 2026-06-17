@@ -1,0 +1,45 @@
+formulas:
+  Название: file.asLink(file.properties.title)
+properties:
+  note.projection:
+    displayName: Проекция
+  note.worker:
+    displayName: Работник
+  note.color:
+    displayName: Цвет
+views:
+  - type: table
+    name: Проекция
+    filters:
+      and:
+        - file.inFolder("silent_revenge_office/reflections/reflections")
+    groupBy:
+      property: projection
+      direction: ASC
+    order:
+      - worker
+      - formula.Название
+      - color
+      - projection
+    columnSize:
+      formula.Название: 298
+      note.color: 202
+  - type: table
+    name: Работники
+    filters:
+      and:
+        - file.inFolder("silent_revenge_office/reflections/reflections")
+    groupBy:
+      property: worker
+      direction: ASC
+    order:
+      - worker
+      - formula.Название
+      - color
+      - projection
+    sort:
+      - property: projection
+        direction: ASC
+    columnSize:
+      formula.Название: 331
+      note.color: 202
