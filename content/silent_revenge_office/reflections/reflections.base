@@ -15,6 +15,7 @@ views:
       and:
         - file.inFolder("silent_revenge_office/reflections/reflections")
         - file.folder != "silent_revenge_office/reflections/reflections/images"
+        - file.name.contains("-")
     groupBy:
       property: projection
       direction: ASC
@@ -34,6 +35,7 @@ views:
       and:
         - file.inFolder("silent_revenge_office/reflections/reflections")
         - file.folder != "silent_revenge_office/reflections/reflections/images"
+        - file.name.contains("-")
     groupBy:
       property: worker
       direction: ASC
@@ -50,11 +52,12 @@ views:
       note.color: 202
     rowHeight: medium
   - type: cards
-    name: Проекция Карточки
+    name: Проекция Карточки (НЕ РАБОТАЕТ)
     filters:
       and:
         - file.inFolder("silent_revenge_office/reflections/reflections")
         - file.folder != "silent_revenge_office/reflections/reflections/images"
+        - file.name.contains("-")
     groupBy:
       property: projection
       direction: ASC
@@ -70,11 +73,12 @@ views:
     rowHeight: medium
     image: formula.Иконка
   - type: cards
-    name: Работники Карточки
+    name: Работники Карточки (НЕ РАБОТАЕТ)
     filters:
       and:
         - file.inFolder("silent_revenge_office/reflections/reflections")
         - file.folder != "silent_revenge_office/reflections/reflections/images"
+        - file.name.contains("-")
     groupBy:
       property: worker
       direction: ASC
