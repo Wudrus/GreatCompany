@@ -1,5 +1,6 @@
 formulas:
   Название: file.asLink(file.properties.title)
+  Иконка: image(file.name+".png")
 properties:
   note.projection:
     displayName: Проекция
@@ -13,6 +14,7 @@ views:
     filters:
       and:
         - file.inFolder("silent_revenge_office/reflections/reflections")
+        - file.folder != "silent_revenge_office/reflections/reflections/images"
     groupBy:
       property: projection
       direction: ASC
@@ -22,13 +24,16 @@ views:
       - color
       - projection
     columnSize:
-      formula.Название: 298
+      formula.Название: 219
       note.color: 202
+      note.projection: 241
+    rowHeight: medium
   - type: table
     name: Работники
     filters:
       and:
         - file.inFolder("silent_revenge_office/reflections/reflections")
+        - file.folder != "silent_revenge_office/reflections/reflections/images"
     groupBy:
       property: worker
       direction: ASC
@@ -43,3 +48,46 @@ views:
     columnSize:
       formula.Название: 331
       note.color: 202
+    rowHeight: medium
+  - type: cards
+    name: Проекция Карточки
+    filters:
+      and:
+        - file.inFolder("silent_revenge_office/reflections/reflections")
+        - file.folder != "silent_revenge_office/reflections/reflections/images"
+    groupBy:
+      property: projection
+      direction: ASC
+    order:
+      - worker
+      - formula.Название
+      - color
+      - projection
+    columnSize:
+      formula.Название: 219
+      note.color: 202
+      note.projection: 241
+    rowHeight: medium
+    image: formula.Иконка
+  - type: cards
+    name: Работники Карточки
+    filters:
+      and:
+        - file.inFolder("silent_revenge_office/reflections/reflections")
+        - file.folder != "silent_revenge_office/reflections/reflections/images"
+    groupBy:
+      property: worker
+      direction: ASC
+    order:
+      - worker
+      - formula.Название
+      - color
+      - projection
+    sort:
+      - property: projection
+        direction: ASC
+    columnSize:
+      formula.Название: 331
+      note.color: 202
+    rowHeight: medium
+    image: formula.Иконка
