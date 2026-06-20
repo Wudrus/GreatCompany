@@ -8,20 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "be3a5c9bf485c802",
+            "id": "a06c34d707c9f26e",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "silent_revenge_office/reflections/reflections.base",
-                "viewName": "Проекция"
+                "file": "silent_revenge_office/neotes/workers_documents/ugol.md",
+                "mode": "source",
+                "source": false
               },
-              "pinned": true,
-              "icon": "lucide-table",
-              "title": "reflections"
-            },
-            "group": "c3610bc0593d5378"
+              "icon": "lucide-file",
+              "title": "ugol"
+            }
           }
         ]
       }
@@ -87,11 +85,10 @@
           {
             "id": "fcda236705de6f40",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "silent_revenge_office/reflections/reflections.base",
+                "file": "silent_revenge_office/neotes/workers_documents/ugol.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -118,11 +115,9 @@
                   "close": true
                 }
               },
-              "pinned": true,
               "icon": "lucide-git-fork",
-              "title": "Граф reflections"
-            },
-            "group": "c3610bc0593d5378"
+              "title": "Граф ugol"
+            }
           }
         ]
       }
@@ -233,11 +228,20 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "be3a5c9bf485c802",
+  "active": "a06c34d707c9f26e",
   "lastOpenFiles": [
-    "silent_revenge_office/reflections/index.md",
-    "silent_revenge_office/reflections/reflections.base",
+    "silent_revenge_office/neotes/workers_documents/wudrus.md",
+    "silent_revenge_office/neotes/workers_documents/tom.md",
+    "silent_revenge_office/neotes/workers_documents/raven.md",
+    "silent_revenge_office/neotes/workers_documents/neo.md",
+    "silent_revenge_office/neotes/workers_documents/koshak.md",
+    "silent_revenge_office/neotes/workers_documents/kari.md",
+    "silent_revenge_office/neotes/workers_documents/boxser.md",
+    "story/neotes/Досье.md",
     "silent_revenge_office/neotes/reflections.md",
+    "silent_revenge_office/neotes/workers_documents/ugol.md",
+    "silent_revenge_office/reflections/reflections.base",
+    "silent_revenge_office/reflections/index.md",
     "silent_revenge_office/reflections/reflections/images/neo-citys-hands.png",
     "silent_revenge_office/reflections/reflections/images/tom-citys-hands.png",
     "silent_revenge_office/reflections/reflections/wudrus-silent-revenge.md",
@@ -264,15 +268,6 @@
     "silent_revenge_office/reflections/reflections/wudrus-tcorp.md",
     "silent_revenge_office/reflections/reflections/wudrus-oufi.md",
     "silent_revenge_office/reflections/reflections/wudrus-zwei.md",
-    "silent_revenge_office/reflections/reflections/wudrus-seven.md",
-    "silent_revenge_office/reflections/reflections/wudrus-dieci.md",
-    "Без названия.md",
-    "workers/wudrus/wudrus-cityshands.md",
-    "workers/wudrus/wudrus-gg.md",
-    "workers/wudrus/Wudrus Adaptation кратко.md",
-    "workers/wudrus/wudrus-office.md",
-    "workers/wudrus/wudrus-officeless.md",
-    "silent_revenge_office/reflections/reflections/wudrus-cinq.md",
     "silent_revenge_office/main_story/1 _non_believing/1_non_believing_episodes.base",
     "silent_revenge_office/main_story/header.base",
     "silent_revenge_office/reflections/reflections",
