@@ -13,12 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "silent_revenge_office/neotes/workers_documents/ugol.md",
+                "file": "silent_revenge_office/neotes/reflections.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ugol"
+              "title": "reflections"
+            }
+          },
+          {
+            "id": "e53ffa7ecf2f2c28",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "silent_revenge_office/reflections/reflections.base",
+                "viewName": "Работники Карточки (НЕ РАБОТАЕТ)"
+              },
+              "icon": "lucide-layout-grid",
+              "title": "reflections"
             }
           }
         ]
@@ -88,7 +101,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "silent_revenge_office/neotes/workers_documents/ugol.md",
+                "file": "silent_revenge_office/neotes/reflections.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -116,7 +129,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф ugol"
+              "title": "Граф reflections"
             }
           }
         ]
@@ -230,6 +243,10 @@
   },
   "active": "a06c34d707c9f26e",
   "lastOpenFiles": [
+    "silent_revenge_office/reflections/reflections.base",
+    "silent_revenge_office/neotes/reflections.md",
+    "silent_revenge_office/reflections/index.md",
+    "silent_revenge_office/neotes/workers_documents/ugol.md",
     "silent_revenge_office/neotes/workers_documents/wudrus.md",
     "silent_revenge_office/neotes/workers_documents/tom.md",
     "silent_revenge_office/neotes/workers_documents/raven.md",
@@ -238,10 +255,6 @@
     "silent_revenge_office/neotes/workers_documents/kari.md",
     "silent_revenge_office/neotes/workers_documents/boxser.md",
     "story/neotes/Досье.md",
-    "silent_revenge_office/neotes/reflections.md",
-    "silent_revenge_office/neotes/workers_documents/ugol.md",
-    "silent_revenge_office/reflections/reflections.base",
-    "silent_revenge_office/reflections/index.md",
     "silent_revenge_office/reflections/reflections/images/neo-citys-hands.png",
     "silent_revenge_office/reflections/reflections/images/tom-citys-hands.png",
     "silent_revenge_office/reflections/reflections/wudrus-silent-revenge.md",
@@ -267,7 +280,6 @@
     "silent_revenge_office/reflections/reflections/wudrus-yurodiviye.md",
     "silent_revenge_office/reflections/reflections/wudrus-tcorp.md",
     "silent_revenge_office/reflections/reflections/wudrus-oufi.md",
-    "silent_revenge_office/reflections/reflections/wudrus-zwei.md",
     "silent_revenge_office/main_story/1 _non_believing/1_non_believing_episodes.base",
     "silent_revenge_office/main_story/header.base",
     "silent_revenge_office/reflections/reflections",
