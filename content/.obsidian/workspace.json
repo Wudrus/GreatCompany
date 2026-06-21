@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "silent_revenge_office/neotes/reflections.md",
+                "file": "silent_revenge_office/main_story/9_pests/9-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "reflections"
+              "title": "9-1"
             }
           },
           {
@@ -101,7 +101,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "silent_revenge_office/neotes/reflections.md",
+                "file": "silent_revenge_office/main_story/9_pests/9-1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -129,7 +129,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф reflections"
+              "title": "Граф 9-1"
             }
           }
         ]
@@ -243,8 +243,10 @@
   },
   "active": "a06c34d707c9f26e",
   "lastOpenFiles": [
-    "silent_revenge_office/reflections/reflections.base",
     "silent_revenge_office/neotes/reflections.md",
+    "silent_revenge_office/main_story/9_pests/9-1.md",
+    "silent_revenge_office/main_story/9_pests",
+    "silent_revenge_office/reflections/reflections.base",
     "silent_revenge_office/reflections/index.md",
     "silent_revenge_office/neotes/workers_documents/ugol.md",
     "silent_revenge_office/neotes/workers_documents/wudrus.md",
@@ -286,7 +288,6 @@
     "silent_revenge_office/main_story/0_first_task/0_first_task_episodes.base",
     "silent_revenge_office/reflections",
     "templates/sro",
-    "templates/reflection",
-    "templates"
+    "templates/reflection"
   ]
 }
