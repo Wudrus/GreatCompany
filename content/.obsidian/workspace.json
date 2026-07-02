@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "silent_revenge_office/neotes/workers_documents/tom.md",
+                "file": "silent_revenge_office/neotes/workers_documents/wudrus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tom"
+              "title": "wudrus"
             },
             "group": "6acbbb83b6c06b15"
-          },
-          {
-            "id": "1fee1f26209ceeba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "story/neotes/Дресс-Код.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Дресс-Код"
-            }
           }
         ]
       },
@@ -63,12 +49,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "silent_revenge_office/neotes/workers_documents/wudrus.md",
+                "file": "story/neotes/Досье.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "wudrus"
+              "title": "Досье"
             }
           }
         ],
@@ -139,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "silent_revenge_office/neotes/workers_documents/tom.md",
+                "file": "silent_revenge_office/neotes/workers_documents/wudrus.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -167,7 +153,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф tom"
+              "title": "Граф wudrus"
             }
           }
         ]
@@ -281,17 +267,18 @@
   },
   "active": "a06c34d707c9f26e",
   "lastOpenFiles": [
+    "silent_revenge_office/neotes/workers_documents/kari.md",
+    "silent_revenge_office/neotes/workers_documents/koshak.md",
+    "silent_revenge_office/neotes/workers_documents/boxser.md",
+    "silent_revenge_office/neotes/workers_documents/raven.md",
+    "silent_revenge_office/neotes/workers_documents/ugol.md",
+    "silent_revenge_office/neotes/workers_documents/tom.md",
+    "silent_revenge_office/neotes/workers_documents/wudrus.md",
+    "silent_revenge_office/neotes/workers_documents/neo.md",
+    "story/neotes/Досье.md",
     "silent_revenge_office/lyrix/I Want To Believe.md",
     "silent_revenge_office/lyrix",
     "story/neotes/Дресс-Код.md",
-    "silent_revenge_office/neotes/workers_documents/tom.md",
-    "silent_revenge_office/neotes/workers_documents/raven.md",
-    "silent_revenge_office/neotes/workers_documents/neo.md",
-    "silent_revenge_office/neotes/workers_documents/wudrus.md",
-    "silent_revenge_office/neotes/workers_documents/koshak.md",
-    "silent_revenge_office/neotes/workers_documents/boxser.md",
-    "silent_revenge_office/neotes/workers_documents/kari.md",
-    "silent_revenge_office/neotes/workers_documents/ugol.md",
     "silent_revenge_office/neotes/factions.md",
     "silent_revenge_office/neotes/organizations/the-theater-of-shadows.md",
     "silent_revenge_office/main_story/9_pests/9-1.md",
@@ -300,7 +287,6 @@
     "silent_revenge_office/main_story/9_pests",
     "silent_revenge_office/reflections/reflections.base",
     "silent_revenge_office/reflections/index.md",
-    "story/neotes/Досье.md",
     "silent_revenge_office/reflections/reflections/images/neo-citys-hands.png",
     "silent_revenge_office/reflections/reflections/images/tom-citys-hands.png",
     "silent_revenge_office/reflections/reflections/wudrus-silent-revenge.md",
