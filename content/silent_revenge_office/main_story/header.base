@@ -24,6 +24,8 @@ views:
       - category
       - description
     sort:
+      - property: category
+        direction: ASC
       - property: formula.Название
         direction: ASC
     columnSize:
