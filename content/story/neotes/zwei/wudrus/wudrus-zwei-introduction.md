@@ -1,3 +1,6 @@
+---
+draft: true
+---
 <table>
 	<tr>
 		<th style="width:100px">Сигнатура</th>

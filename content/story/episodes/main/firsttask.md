@@ -1,5 +1,6 @@
 ---
-title: "0 - First Task"
+title: 0 - First Task
+draft: true
 ---
 # 0 - First Task - Первый Заказ
 Является введением.  

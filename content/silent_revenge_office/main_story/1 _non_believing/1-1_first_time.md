@@ -3,6 +3,7 @@ completion: true
 title: 1-1 First Time | Первый Раз
 category: Собрание
 description: Офис впервые получает серьёзный контракт. Вудрус задаёт странный вопрос.
+draft: true
 ---
 
 \[Настало время, Нео.\]  

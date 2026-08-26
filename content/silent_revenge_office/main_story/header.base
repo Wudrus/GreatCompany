@@ -1,6 +1,8 @@
 filters:
   and:
     - file.ext == "md"
+    - file.hasProperty("category")
+    - file.path.contains("silent_revenge_office/main_story/_headers/")
 formulas:
   Название: file.asLink(file.properties.title)
   Категория: file.tags.filter(value.toString().contains("история")).toString().replace("#история/","")
@@ -16,18 +18,12 @@ properties:
 views:
   - type: table
     name: Таблица
-    filters:
-      or:
-        - file.inFolder("silent_revenge_office/main_story/_headers")
-        - file.inFolder("silent_revenge_office/main_story/mini_episodes")
     order:
       - formula.Завершение
       - formula.Название
       - category
       - description
     sort:
-      - property: category
-        direction: ASC
       - property: formula.Название
         direction: ASC
     columnSize:
