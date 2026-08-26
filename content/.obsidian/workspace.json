@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "silent_revenge_office/neotes/workers_documents/boxser.md",
+                "file": "silent_revenge_office/neotes/factions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "boxser"
+              "title": "factions"
             },
             "group": "213094ee94c3edc3"
           }
@@ -34,14 +34,13 @@
             "id": "b61ef0e1ffeed073",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "silent_revenge_office/neotes/workers_documents/boxser.md",
-                "mode": "source",
-                "source": false
+                "file": "silent_revenge_office/reflections/reflections.base",
+                "viewName": "Проекция"
               },
-              "icon": "lucide-file",
-              "title": "boxser"
+              "icon": "lucide-table",
+              "title": "reflections"
             },
             "group": "213094ee94c3edc3"
           }
@@ -114,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "silent_revenge_office/neotes/workers_documents/boxser.md",
+                "file": "silent_revenge_office/neotes/factions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,6 +255,15 @@
   },
   "active": "b05ecfd4ff95feff",
   "lastOpenFiles": [
+    "silent_revenge_office/neotes/reflections.md",
+    "silent_revenge_office/reflections/reflections.base",
+    "workers/Зеркальные миры.md",
+    "workers/Пальцы.md",
+    "silent_revenge_office/Отличия в механике.md",
+    "silent_revenge_office/reflections/reflections/tom-citys-hands.md",
+    "silent_revenge_office/reflections/reflections/neo-citys-hands.md",
+    "story/neotes/cityshands/_Руки Города.md",
+    "silent_revenge_office/neotes/workers_documents/boxser.md",
     "silent_revenge_office/neotes/workers_documents/kari.md",
     "silent_revenge_office/neotes/workers_documents/koshak.md",
     "silent_revenge_office/neotes/workers_documents/neo.md",
@@ -263,9 +271,7 @@
     "silent_revenge_office/neotes/workers_documents/tom.md",
     "silent_revenge_office/neotes/workers_documents/ugol.md",
     "silent_revenge_office/neotes/workers_documents/wudrus.md",
-    "silent_revenge_office/neotes/workers_documents/boxser.md",
     "story/neotes/Дресс-Код.md",
-    "silent_revenge_office/neotes/reflections.md",
     "silent_revenge_office/neotes/factions.md",
     "silent_revenge_office/reflections/index.md",
     "index.md",
@@ -274,15 +280,7 @@
     "silent_revenge_office/main_story/0_first_task/0-2_field.md",
     "silent_revenge_office/main_story/0_first_task/0-1_arrival.md",
     "silent_revenge_office/main_story/_headers/0_first_task.md",
-    "silent_revenge_office/reflections/reflections.base",
     "silent_revenge_office/stories/citys-hands/wudrus/intro.md",
-    "silent_revenge_office/Отличия в механике.md",
-    "silent_revenge_office/reflections/reflections/wudrus-zwei.md",
-    "silent_revenge_office/reflections/reflections/wudrus-yurodiviye.md",
-    "silent_revenge_office/reflections/reflections/wudrus-tcorp.md",
-    "silent_revenge_office/reflections/reflections/wudrus-sinner.md",
-    "silent_revenge_office/reflections/reflections/wudrus-silent-revenge.md",
-    "silent_revenge_office/reflections/reflections/wudrus-seven.md",
     "silent_revenge_office/main_story/1 _non_believing/1_non_believing_episodes.base",
     "reflections.base",
     "filez/sro.png",
