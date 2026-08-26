@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "silent_revenge_office/neotes/factions.md",
+                "file": "silent_revenge_office/neotes/reflections.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "factions"
+              "title": "reflections"
             },
             "group": "213094ee94c3edc3"
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "silent_revenge_office/neotes/factions.md",
+                "file": "silent_revenge_office/neotes/reflections.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -255,6 +255,7 @@
   },
   "active": "b05ecfd4ff95feff",
   "lastOpenFiles": [
+    "silent_revenge_office/neotes/factions.md",
     "silent_revenge_office/neotes/reflections.md",
     "silent_revenge_office/reflections/reflections.base",
     "workers/Зеркальные миры.md",
@@ -272,7 +273,6 @@
     "silent_revenge_office/neotes/workers_documents/ugol.md",
     "silent_revenge_office/neotes/workers_documents/wudrus.md",
     "story/neotes/Дресс-Код.md",
-    "silent_revenge_office/neotes/factions.md",
     "silent_revenge_office/reflections/index.md",
     "index.md",
     "silent_revenge_office/main_story/0_first_task/0-4_mistake.md",
