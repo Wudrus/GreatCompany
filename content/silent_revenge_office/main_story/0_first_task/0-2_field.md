@@ -134,4 +134,4 @@ category: Пролог
 
 > Начинается бой.
 
-[[firsttask|0]] - [[0-1_arrival|<=]] 2 [[0-3_clerks|=>]]
+[[0_first_task|0]] - [[0-1_arrival|<=]] 2 [[0-3_clerks|=>]]

@@ -96,4 +96,4 @@ category: Пролог
 
 > Начинается бой.
 
-[[firsttask|0]] - [[0-2_field|<=]] 3 [[0-4_mistake|=>]]
+[[0_first_task|0]] - [[0-2_field|<=]] 3 [[0-4_mistake|=>]]

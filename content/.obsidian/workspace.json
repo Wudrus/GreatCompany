@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "silent_revenge_office/reflections/index.md",
+                "file": "silent_revenge_office/main_story/0_first_task/0-4_mistake.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "0-4_mistake"
             },
             "group": "213094ee94c3edc3"
           }
@@ -36,12 +36,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "silent_revenge_office/reflections/index.md",
+                "file": "silent_revenge_office/main_story/0_first_task/0-4_mistake.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "0-4_mistake"
             },
             "group": "213094ee94c3edc3"
           }
@@ -114,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "silent_revenge_office/reflections/index.md",
+                "file": "silent_revenge_office/main_story/0_first_task/0-4_mistake.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -254,10 +254,14 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "b05ecfd4ff95feff",
+  "active": "b61ef0e1ffeed073",
   "lastOpenFiles": [
-    "silent_revenge_office/reflections/reflections.base",
+    "silent_revenge_office/main_story/0_first_task/0-3_clerks.md",
+    "silent_revenge_office/main_story/0_first_task/0-2_field.md",
+    "silent_revenge_office/main_story/0_first_task/0-1_arrival.md",
+    "silent_revenge_office/main_story/_headers/0_first_task.md",
     "silent_revenge_office/reflections/index.md",
+    "silent_revenge_office/reflections/reflections.base",
     "silent_revenge_office/stories/citys-hands/wudrus/intro.md",
     "silent_revenge_office/Отличия в механике.md",
     "silent_revenge_office/reflections/reflections/wudrus-zwei.md",
@@ -279,9 +283,6 @@
     "silent_revenge_office/neotes/factions.md",
     "silent_revenge_office/neotes/workers_documents/wudrus.md",
     "silent_revenge_office/neotes/workers_documents/ugol.md",
-    "silent_revenge_office/neotes/workers_documents/tom.md",
-    "silent_revenge_office/neotes/workers_documents/raven.md",
-    "silent_revenge_office/neotes/workers_documents/neo.md",
     "silent_revenge_office/main_story/1 _non_believing/1_non_believing_episodes.base",
     "reflections.base",
     "filez/sro.png",

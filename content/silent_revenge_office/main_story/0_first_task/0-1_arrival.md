@@ -185,4 +185,4 @@ category: Пролог
 
 > Начинается бой.
 
-[[firsttask|0]] - 1 [[0-2_field|=>]]
+[[0_first_task|0]] - 1 [[0-2_field|=>]]
