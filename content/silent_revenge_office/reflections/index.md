@@ -1,4 +1,4 @@
 ---
-draft: true
+draft: false
 ---
 ![[silent_revenge_office/reflections/reflections.base|reflections]]

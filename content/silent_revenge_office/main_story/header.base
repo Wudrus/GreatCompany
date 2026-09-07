@@ -2,7 +2,9 @@ filters:
   and:
     - file.ext == "md"
     - file.hasProperty("category")
-    - file.path.contains("silent_revenge_office/main_story/_headers/")
+    - or:
+        - file.path.contains("silent_revenge_office/main_story/_headers/")
+        - file.path.contains("silent_revenge_office/main_story/mini_episodes/")
 formulas:
   Название: file.asLink(file.properties.title)
   Категория: file.tags.filter(value.toString().contains("история")).toString().replace("#история/","")
