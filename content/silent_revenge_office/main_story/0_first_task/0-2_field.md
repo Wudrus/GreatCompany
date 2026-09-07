@@ -37,7 +37,7 @@ category: Пролог
 		<td>Чт- Кошак, стой, ты куда?</td>
 	</tr>
 	<tr>
-		<td colspan=3 style="text-align:center">[Кошак побежал прямо в группу врагов.]</td>
+		<td colspan=3 style="text-align:center;color:blue">[Кошак побежал прямо в группу врагов.]</td>
 	</tr>
 	<tr>
 		<td><i>Перо</i></td>
