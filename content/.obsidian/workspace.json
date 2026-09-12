@@ -6,7 +6,6 @@
       {
         "id": "fee6f607924876dc",
         "type": "tabs",
-        "dimension": 47.78481012658228,
         "children": [
           {
             "id": "b05ecfd4ff95feff",
@@ -16,33 +15,33 @@
               "state": {
                 "file": "silent_revenge_office/stories/citys-hands/wudrus/intro.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "intro"
-            }
+            },
+            "group": "7e613dc685399aef"
           }
         ]
       },
       {
-        "id": "813ba5d4c863d317",
+        "id": "08147277e0efb332",
         "type": "tabs",
-        "dimension": 52.21518987341772,
         "children": [
           {
-            "id": "b61ef0e1ffeed073",
+            "id": "2f36d5d04e78d1bb",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "silent_revenge_office/reflections/reflections.base",
-                "viewName": "Проекция"
+                "file": "silent_revenge_office/stories/citys-hands/wudrus/intro.md",
+                "mode": "preview",
+                "source": false
               },
-              "pinned": true,
-              "icon": "lucide-table",
-              "title": "reflections"
-            }
+              "icon": "lucide-file",
+              "title": "intro"
+            },
+            "group": "7e613dc685399aef"
           }
         ]
       }
@@ -256,6 +255,12 @@
   "active": "b05ecfd4ff95feff",
   "lastOpenFiles": [
     "silent_revenge_office/reflections/reflections/wudrus-citys-hands.md",
+    "silent_revenge_office/stories/citys-hands/wudrus/intro.md",
+    "workers/Зеркальные миры.md",
+    "silent_revenge_office/reflections/index.md",
+    "silent_revenge_office/Отличия в механике.md",
+    "templates/линия жирный.md",
+    "story/ids/l corp/wudrus-lcorp.md",
     "silent_revenge_office/reflections/reflections/neo-citys-hands.md",
     "silent_revenge_office/reflections/reflections/tom-citys-hands.md",
     "silent_revenge_office/reflections/reflections/wudrus-cinq.md",
@@ -270,17 +275,11 @@
     "silent_revenge_office/reflections/reflections/wudrus-tcorp.md",
     "silent_revenge_office/reflections/reflections/wudrus-yurodiviye.md",
     "silent_revenge_office/reflections/reflections/wudrus-zwei.md",
-    "silent_revenge_office/reflections/index.md",
-    "silent_revenge_office/Отличия в механике.md",
     "silent_revenge_office/neotes/factions.md",
     "story/episodes/Случайные Взаимодействия/Оружие - до 0/Уголь.md",
     "story/episodes/Случайные Взаимодействия/Оружие - до 0/Том.md",
     "story/episodes/Случайные Взаимодействия/Оружие - до 0/Рэйвен.md",
     "story/episodes/Случайные Взаимодействия/Оружие - до 0/Нео.md",
-    "story/episodes/Случайные Взаимодействия/Оружие - до 0/Кошак.md",
-    "story/episodes/Случайные Взаимодействия/Оружие - до 0/Кари.md",
-    "story/episodes/Случайные Взаимодействия/Оружие - до 0/Боксер.md",
-    "story/episodes/Случайные Взаимодействия/Оружие - до 0/Вудрус.md",
     "silent_revenge_office/reflections/reflections.base",
     "silent_revenge_office/main_story/1 _non_believing/1_non_believing_episodes.base",
     "reflections.base",
