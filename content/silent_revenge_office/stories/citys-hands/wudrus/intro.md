@@ -11,7 +11,7 @@ draft: false
 		<th style="width:50%">Диалог</th>
 	</tr>
 	<tr>
-		<td colspan=3 style="text-align:center;font-size:30"><b><i>Вводная I</i></b></td>
+		<td colspan=3 style="text-align:center"><h1>Вводная I</h1></td>
 	</tr>
 	<tr>
 		<td colspan=3 style="text-align:center"><b>"Пламенный Глаз Большого пальца".</b></td>
@@ -61,7 +61,7 @@ draft: false
 		<td colspan=3 style="text-align:center"><b>Верность моих Солдато строилась на однозначном уважении, а не на страхе. Это просто не... Тут я бы назвал это просто неэффективным, наверное.</b></td>
 	</tr>
 	<tr>
-		<td colspan=3 style="text-align:center;font-size:30"><b><i>Вводная II</i></b></td>
+		<td colspan=3 style="text-align:center;font-size:30"><h1>Вводная II</h1></td>
 	</tr>
 	<tr>
 		<td colspan=3 style="text-align:center"><b>Теперь насчёт того ружья.</b></td>
@@ -106,7 +106,7 @@ draft: false
 		<td colspan=3 style="text-align:center">Закончив со всем, я зажёг сигару об штык. Не чтобы покурить. Здесь я всё ещё не курю. А чтобы засечь время для остывания ружья. И как только сигара догорела, а ружьё остыло, я убрал его обратно за спину и отправился туда, откуда пришёл.</td>
 	</tr>
 	<tr>
-		<td colspan=3 style="text-align:center;font-size:30"><b><i>Углублённая I</i></b></td>
+		<td colspan=3 style="text-align:center;font-size:30"><h1>Углублённая I</h1></td>
 	</tr>
 	<tr>
 		<td colspan=3 style="text-align:center">Я сидел на дряхлом диване в какой-то непонятной дыре. Ноги на столике возле дивана, сигара в руке. </td>
@@ -171,7 +171,7 @@ draft: false
 		<td colspan=3 style="text-align:center"><b>Укрываясь от преследования я столкнулся с другими членами пальцев в бегах. У каждого свои причины, но нас всех объединяло то, что нам больше были не рады в своих синдикатах.</b></td>
 	</tr>
 	<tr>
-		<td colspan=3 style="text-align:center;font-size:30"><b><i>Углублённая II</i></b></td>
+		<td colspan=3 style="text-align:center;font-size:30"><h1>Углублённая II</h1></td>
 	</tr>
 	<tr>
 		<td colspan=3 style="text-align:center">Я дремал на диване, остальные в других комнатах. Скорее всего тоже отдыхали. Рядом со мной сидел Кошак и боролся со сонливостью. </td>
