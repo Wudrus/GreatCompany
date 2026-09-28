@@ -51,7 +51,8 @@
               "title": "Отличия в механике"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "d8ceb3a8c932a7b7",
@@ -169,7 +170,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "silent_revenge_office/reflections/reflections/wudrus-silent-revenge.md",
+                "file": "silent_revenge_office/Отличия в механике.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -221,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "silent_revenge_office/reflections/reflections/wudrus-silent-revenge.md",
+                "file": "silent_revenge_office/Отличия в механике.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -310,10 +311,10 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "2f36d5d04e78d1bb",
+  "active": "f8e1f9cd46d37718",
   "lastOpenFiles": [
-    "silent_revenge_office/Отличия в механике.md",
     "silent_revenge_office/reflections/reflections/wudrus-silent-revenge.md",
+    "silent_revenge_office/Отличия в механике.md",
     "silent_revenge_office/reflections/reflections/wudrus-citys-hands.md",
     "silent_revenge_office/neotes/workers_documents/raven.md",
     "silent_revenge_office/neotes/workers_documents/neo.md",
