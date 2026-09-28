@@ -5,6 +5,7 @@ projection: Офис Тихая Месть
 color: "#3C2C1C (Коричневый - Bistre)"
 draft: false
 ---
+%%
 **Хлам**:
    - **Получение**: Каждый ход и при смерти противников.
    - **Использование**: Усиление атак с расходованием.
@@ -62,40 +63,82 @@ draft: false
 
 начал делать, но забросил
 
-<table >
-	<tr>
-		<th style="background:#2F3B6C;text-align:center" colspan="6">Информация</th>
-	</tr>
-	<tr>
-		<td style="text-align: end;width:15%"><img src="health.png" style="height:22;vertical-align: sub" alt="health.png"></td>
-		<td style="width:15%">95</td>
-		<td style="text-align: end;width:15%"><img src="speed.png" style="height:22;vertical-align: sub" alt="speed.png"></td>
-		<td style="width:15%">5-7</td>
-		<td style="text-align: end;width:15%"><img src="defense.png" style="height:22;vertical-align: sub" alt="defense.png"></td>
-		<td style="width:15%">10%</td>
-	</tr>
-	<tr>
-		<td style="text-align: end" colspan="3">Проекция спектра:</td>
-		<td colspan="3">Офис Тихая Месть</td>
-	</tr>
-	<tr>
-		<th style="background:#2F3B6C;text-align:center;width:60%" colspan="6">Уязвимости</th>
-	</tr>
-	<tr>
-		<td style="text-align: end;"><img src="slash-res.png" style="height:22;vertical-align: sub;" alt="slash.png"></td>
-		<td>[x1]</td>
-		<td style="text-align: end;"><img src="pierce-res.png" style="height:22;vertical-align: sub;" alt="pierce.png"></td>
-		<td>[x1.5]</td>
-		<td style="text-align: end;"><img src="blunt-res.png" style="height:22;vertical-align: sub;" alt="blunt.png"></td>
-		<td>[x0.5]</td>
-	</tr>
-</table>
+%%
+
+V5P5
+
+V\#\#\#\#\#  
+P\_\_\_\_\_
+
+**Проекция Спектра**: Офис Тихая Месть  
+
+<img src="health.png" style="height:18px;vertical-align:sub"> **Базовое здоровье**: 95  
+<img src="speed.png" style="height:18px;vertical-align:sub"> **Скорость**: 5-7  
+<img src="defense.png" style="height:18px;vertical-align:sub"> **Значение Щита**: 10%
+
+**Сопротивления**:
+- <img src="slash-res.png" style="height:18px;vertical-align:sub"> **Режущий**: <span style="color:yellow">\[x1]</span>
+- <img src="pierce-res.png" style="height:18px;vertical-align:sub"> **Пронзающий**: <span style="color:red">\[x1.5]</span>
+- <img src="blunt-res.png" style="height:18px;vertical-align:sub"> **Дробящий**: <span style="color:gray">\[x0.5]</span>
+
 <table>
 	<tr>
-		<th style="background:#2f3b5c;text-align:center" colspan="2">Атакующие навыки</th>
+		<th style="background:#2f3b5c;text-align:center" colspan="100">Навыки</th>
 	</tr>
 	<tr>
-		<td style="width:45%"></td>
-		<td style="width:45%"></td>
+		<td colspan=100 class="skill">Сбор Материалов ~ Навык I</td>
+	</tr>
+	<tr>
+		<td colspan=4 class="skill">Атака</td>
+		<td colspan=4 class="skill">Защита</td>
+	</tr>
+	<tr>
+		<td><b>Грех</b>:<br>Гордыня</td>
+		<td><b>Тип</b>:<br>Пронзающий</td>
+		<td><b>Сила</b>:<br>2 + 5 * 2</td>
+		<td><b>Защита</b>:<br>Нет</td>
+		<td><b>Грех</b>:<br>Гордыня</td>
+		<td><b>Тип</b>:<br>Пронзающий</td>
+		<td><b>Сила</b>:<br>2 + 3 * 2</td>
+		<td><b>Защита</b>:<br>Блок</td>
+	</tr>
+	<tr>
+		<td colspan=4>1. <span class="trG">[При ударе]</span> Меняет <span class="stG">Дыхание</span> на себе на <b>+4:+0</b>.<br>2. <span class="trG">[При ударе]</span> Меняет <span class="stG">Хлам</span> на <b>+1</b>.</td>
+		<td colspan=4>1. <span class="trG">[При ударе]</span> Меняет <span class="stG">Дыхание</span> на себе на <b>+2:+0</b></td>
+	</tr>
+	<tr>
+		<td colspan=100 class="skill">Утилизация ~ Навык II</td>
+	</tr>
+	<tr>
+		<td colspan=4 class="skill">Атака</td>
+		<td colspan=4 class="skill">Защита</td>
+	</tr>
+	<tr>
+		<td><b>Грех</b>:<br>Гнев</td>
+		<td><b>Тип</b>:<br>Дробящий</td>
+		<td><b>Сила</b>:<br>5 + 3 * 3</td>
+		<td><b>Защита</b>:<br>Нет</td>
+		<td><b>Грех</b>:<br>Гнев</td>
+		<td><b>Тип</b>:<br>Дробящий</td>
+		<td><b>Сила</b>:<br>10 + 1 * 3</td>
+		<td><b>Защита</b>:<br>Уворот</td>
+	</tr>
+	<tr>
+		<td colspan=4>1. <span class="trG">[При ударе] </span>Меняет <span class="stG">Дыхание</span> на себе на <b>+0:+1</b>.<br>2. <span class="trG">[При ударе] </span>Меняет <span class="stG">Дыхание</span> на себе на <b>+5:+0</b>.<br>3. <span class="trG">[При ударе] </span>Меняет <span class="stG">Хлам</span> на себе <b>+3</b>.<br> - <span class="trG">[Критический удар] </span>Подбрасывает эту монету снова. Единожды.</td>
+		<td colspan=4>1. <span class="trG">[При ударе] </span>Меняет <span class="stG">Дыхание</span> на себе на <b>+0:+1</b>.<br>2. <span class="trG">[При ударе] </span>Меняет <span class="stG">Дыхание</span> на себе на <b>+3:+0</b>.<br>3. <span class="trG">[При ударе] </span>Меняет <span class="stG">Хлам</span> на себе <b>+2</b>.<br> - <span class="trG">[Критический удар] </span>Подбрасывает эту монету снова. Единожды.</td>
+	</tr>
+	<tr>
+		<td colspan=100 class="skill">Переработка материала ~ Базовая пассивная способность</td>
+	</tr>
+	<tr>
+		<td colspan=100><span class="trG">[Начало хода]</span> Меняет свой <span class="stG">Хлам</span> на <b>+1</b><br><span class="trG">[Убийство противника]</span> Меняет свой <span class="stG">Хлам</span> на <b>+5</b></td>
+	</tr>
+	<tr>
+		<td colspan=4 class=skill>Точное распределение ресурсов ~ Боевая пассивная способность</td>
+		<td colspan=4 class=skill>Техника дыхания ~ Вспомогательная пассивная способность</td>
+	</tr>
+	<tr>
+		<td colspan=4><b>Требует</b>: 3x Гордыня<br>При изменении <span class="stG">Дыхание</span> на себе при помощи эффектов навыков, меняет <span class="stG">Хлам</span> на себе на <b>-3</b> для смены <span class="stG">Дыхание</span> на себе дополнительно на <b>+X:+1</b>, где <b>X</b> - первоначальное изменение соответствующего значения в навыке.</td>
+		<td colspan=4><b>Требует</b>: 3x Гордыня<br>Когда Работник меняет свой <span class="stG">Дыхание</span> на себе при помощи эффектов навыков, дополнительно меняет его на <b>+2:+1</b></td>
 	</tr>
 </table>
