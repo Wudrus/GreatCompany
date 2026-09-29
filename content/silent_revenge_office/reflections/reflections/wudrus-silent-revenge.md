@@ -5,6 +5,8 @@ projection: Офис Тихая Месть
 color: "#3C2C1C (Коричневый - Bistre)"
 draft: false
 ---
+Надо поменять грехи атак местами
+
 <table>
 	<tr>
 		<td colspan=2 style="text-align:center;font-size:24px;background:black"><b>Вудрус ~ <img src="sro.png" style="height:24px;vertical-align:sub"> <span style="color:#2f3b5c">Офис Тихая Месть</span></b></td>
