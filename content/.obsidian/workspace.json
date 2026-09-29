@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "workers/Стандартные ЭГО.md",
+                "file": "silent_revenge_office/reflections/reflections/wudrus-silent-revenge.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Стандартные ЭГО"
+              "title": "wudrus-silent-revenge"
             }
           }
         ]
@@ -90,7 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "workers/Стандартные ЭГО.md",
+                "file": "silent_revenge_office/reflections/reflections/wudrus-silent-revenge.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -230,10 +230,73 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "f8e1f9cd46d37718",
+  "floating": {
+    "id": "19fcb8aefe8e7df7",
+    "type": "floating",
+    "children": [
+      {
+        "id": "888317f2d5e1922d",
+        "type": "window",
+        "children": [
+          {
+            "id": "4c1ec1149cc40b37",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fdd811c66e6cae02",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "silent_revenge_office/reflections/reflections/wudrus-silent-revenge.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "wudrus-silent-revenge"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1038,
+        "y": 68,
+        "width": 600,
+        "height": 600,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "fdd811c66e6cae02",
   "lastOpenFiles": [
-    "silent_revenge_office/Отличия в механике.md",
+    "filez/limbus assets/coin.png",
+    "filez/limbus assets/coin.png.0.pdnSave",
+    "filez/limbus assets/counter.png",
+    "filez/limbus assets/blunt.png",
+    "filez/limbus assets/evade.png",
+    "filez/limbus assets/block.png",
+    "filez/limbus assets/pierce.png",
+    "filez/limbus assets/slash.png",
+    "filez/limbus assets/pride.png",
+    "filez/limbus assets/gloom.png",
+    "filez/limbus assets/gluttony.png",
+    "filez/limbus assets/sloth.png",
+    "filez/limbus assets/res=.png.0.pdnSave",
+    "filez/limbus assets/res++.png.0.pdnSave",
+    "filez/limbus assets/res+.png.0.pdnSave",
+    "filez/limbus assets/res-.png.0.pdnSave",
+    "filez/limbus assets/res--.png.0.pdnSave",
+    "filez/limbus assets/0.png.0.pdnSave",
+    "filez/limbus assets/02.png.0.pdnSave",
+    "filez/limbus assets/speed.png.0.pdnSave",
+    "filez/limbus assets/health.png.0.pdnSave",
     "silent_revenge_office/reflections/reflections/wudrus-silent-revenge.md",
+    "workers/Стандартные ЭГО.md",
+    "silent_revenge_office/reflections/reflections/tom-silent-revenge.md",
+    "silent_revenge_office/reflections/reflections/raven-silent-revenge.md",
+    "silent_revenge_office/Отличия в механике.md",
     "silent_revenge_office/reflections/reflections/wudrus-citys-hands.md",
     "silent_revenge_office/neotes/workers_documents/raven.md",
     "silent_revenge_office/neotes/workers_documents/neo.md",
@@ -253,30 +316,6 @@
     "silent_revenge_office/reflections/reflections/tom-citys-hands.md",
     "silent_revenge_office/reflections/reflections/wudrus-cinq.md",
     "silent_revenge_office/reflections/reflections/wudrus-dieci.md",
-    "silent_revenge_office/reflections/reflections/wudrus-great-group.md",
-    "silent_revenge_office/reflections/reflections/wudrus-yurodiviye.md",
-    "silent_revenge_office/reflections/reflections/wudrus-zwei.md",
-    "silent_revenge_office/reflections/reflections/wudrus-seven.md",
-    "silent_revenge_office/reflections/reflections/images/wudrus-silent-revenge.png",
-    "silent_revenge_office/main_story/mini_episodes/7.2-office-workshop.md",
-    "silent_revenge_office/reflections/reflections.base",
-    "silent_revenge_office/main_story/1 _non_believing/1_non_believing_episodes.base",
-    "reflections.base",
-    "filez/sro.png",
-    "silent_revenge_office/stories/citys-hands/wudrus",
-    "silent_revenge_office/stories/citys-hands",
-    "silent_revenge_office/stories",
-    "silent_revenge_office/reflections/reflections/images/wudrus-citys-hands.png",
-    "filez/limbus assets/defense.png",
-    "filez/limbus assets/defense.png.0.pdnSave",
-    "filez/limbus assets/slash-res.png",
-    "filez/limbus assets/slash-res.png.0.pdnSave",
-    "filez/limbus assets/pierce-res.png",
-    "filez/limbus assets/pierce-res.png.0.pdnSave",
-    "filez/limbus assets/blunt-res.png",
-    "filez/limbus assets/blunt-res.png.0.pdnSave",
-    "filez/limbus assets/speed.png",
-    "filez/limbus assets/health.png",
-    "filez/specturm/361E22.png"
+    "silent_revenge_office/reflections/reflections/wudrus-great-group.md"
   ]
 }
