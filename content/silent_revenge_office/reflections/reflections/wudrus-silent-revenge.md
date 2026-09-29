@@ -5,8 +5,6 @@ projection: Офис Тихая Месть
 color: "#3C2C1C (Коричневый - Bistre)"
 draft: false
 ---
-Надо поменять грехи атак местами
-
 <table>
 	<tr>
 		<td colspan=2 style="text-align:center;font-size:24px;background:black"><b>Вудрус ~ <img src="sro.png" style="height:24px;vertical-align:sub"> <span style="color:#2f3b5c">Офис Тихая Месть</span></b></td>
@@ -43,7 +41,7 @@ draft: false
 		<td class="skill">Защита</td>
 	</tr>
 	<tr>
-		<td colspan=2 style="text-align:center"><b>Грех</b>: <img src="pride.png" style="vertical-align:sub;height:20px">Гордыня</td>
+		<td colspan=2 style="text-align:center"><b>Грех</b>: <img src="wrath.png" style="vertical-align:sub;height:20px">Гнев</td>
 	</tr>
 	<tr>
 		<td colspan=2 style="text-align:center"><b>Тип</b>: <img src="pierce.png" style="vertical-align:sub;height:20px">Пронзающий</td>
@@ -68,7 +66,7 @@ draft: false
 		<td class="skill">Защита</td>
 	</tr>
 	<tr>
-		<td colspan=2 style="text-align:center"><b>Грех</b>: <img src="wrath.png" style="vertical-align:sub;height:20px">Гнев</td>
+		<td colspan=2 style="text-align:center"><b>Грех</b>: <img src="pride.png" style="vertical-align:sub;height:20px">Гордыня</td>
 	</tr>
 	<tr>
 		<td colspan=2 style="text-align:center"><b>Тип</b>: <img src="blunt.png" style="vertical-align:sub;height:20px">Дробящий</td>
