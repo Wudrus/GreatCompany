@@ -31,7 +31,7 @@ draft: false
 		<td style="text-align:right"><img src="res-.png" style="vertical-align:sub;height:18px"> <span style="color:#845F5F">[x0.5]</span> :<b>Дробящий</b> <img src="blunt-res.png" style="height:18px;vertical-align:sub"></td>
 	</tr>
 	<tr>
-		<td style="background:#2f3b5c;text-align:center" colspan="8"><b>Навыки</b></td>
+		<td style="background:#2f3b5c;text-align:center" colspan="2"><b>Навыки</b></td>
 	</tr>
 	<tr>
 		<td colspan=2 class="skill" style="border:2px solid white">Сбор Материалов ~ Навык I</td>
@@ -94,7 +94,7 @@ draft: false
 		<td class=skill style="border:2px solid white">Техника дыхания ~ Вспомогательная пассивная способность.</td>
 	</tr>
 	<tr>
-		<td><b>Требует</b>: 3x Гордыня<br>При изменении <span class="stG">Дыхание</span> на себе при помощи эффектов навыков, меняет <span class="stG">Хлам</span> на себе на <b>-3</b> для смены <span class="stG">Дыхание</span> на себе дополнительно на <b>+X:+1</b>, где <b>X</b> - первоначальное изменение соответствующего значения в навыке.</td>
-		<td><b>Требует</b>: 3x Гордыня<br>Когда Работник меняет свой <span class="stG">Дыхание</span> на себе при помощи эффектов навыков, дополнительно меняет его на <b>+2:+1</b>.</td>
+		<td><b>Требует</b>: 3x <img src="pride.png" style="vertical-align:sub;height:20px">Гордыня<br>При изменении <span class="stG">Дыхание</span> на себе при помощи эффектов навыков, меняет <span class="stG">Хлам</span> на себе на <b>-3</b> для смены <span class="stG">Дыхание</span> на себе дополнительно на <b>+X:+1</b>, где <b>X</b> - первоначальное изменение соответствующего значения в навыке.</td>
+		<td><b>Требует</b>: 3x <img src="pride.png" style="vertical-align:sub;height:20px">Гордыня<br>Когда Работник меняет свой <span class="stG">Дыхание</span> на себе при помощи эффектов навыков, дополнительно меняет его на <b>+2:+1</b>.</td>
 	</tr>
 </table>
