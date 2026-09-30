@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "silent_revenge_office/neotes/neotes.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "neotes"
             },
             "group": "b01b91a4a27537a9"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "silent_revenge_office/neotes/neotes.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "neotes"
             },
             "group": "b01b91a4a27537a9"
           }
@@ -112,7 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "index.md",
+                "file": "silent_revenge_office/neotes/neotes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -254,6 +254,7 @@
   },
   "active": "f8e1f9cd46d37718",
   "lastOpenFiles": [
+    "index.md",
     "silent_revenge_office/mechanics.md",
     "silent_revenge_office/Отличия в механике.md",
     "silent_revenge_office/reflections/reflections/wudrus-silent-revenge.md",
@@ -263,7 +264,6 @@
     "silent_revenge_office/reflections/reflections/koshak-silent-revenge.md",
     "silent_revenge_office/reflections/reflections/wudrus-silent-revenge!.md",
     "silent_revenge_office/reflections/reflections/raven-cinq.md",
-    "index.md",
     "silent_revenge_office/neotes/reflections.md",
     "silent_revenge_office/neotes/workers_documents/workers.md",
     "silent_revenge_office/neotes/workers_documents/kari.md",
