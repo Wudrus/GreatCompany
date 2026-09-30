@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "silent_revenge_office/neotes/neotes.md",
+                "file": "silent_revenge_office/neotes/workers_documents/workers.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "neotes"
+              "title": "workers"
             },
             "group": "b01b91a4a27537a9"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "silent_revenge_office/neotes/neotes.md",
+                "file": "silent_revenge_office/neotes/workers_documents/workers.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "neotes"
+              "title": "workers"
             },
             "group": "b01b91a4a27537a9"
           }
@@ -112,7 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "silent_revenge_office/neotes/neotes.md",
+                "file": "silent_revenge_office/neotes/workers_documents/workers.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -252,8 +252,9 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "f8e1f9cd46d37718",
+  "active": "c562588b4ed03124",
   "lastOpenFiles": [
+    "silent_revenge_office/neotes/neotes.md",
     "index.md",
     "silent_revenge_office/mechanics.md",
     "silent_revenge_office/Отличия в механике.md",
@@ -275,7 +276,6 @@
     "silent_revenge_office/neotes/workers_documents/tom.md",
     "silent_revenge_office/neotes/workers_documents/neo.md",
     "silent_revenge_office/neotes/factions.md",
-    "silent_revenge_office/neotes/neotes.md",
     "story/neotes/neotes.md",
     "filez/limbus assets/coin.png",
     "filez/limbus assets/coin.png.0.pdnSave",
