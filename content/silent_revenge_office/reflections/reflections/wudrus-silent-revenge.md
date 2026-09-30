@@ -7,7 +7,7 @@ draft: false
 ---
 <table>
 	<tr>
-		<td colspan=2 style="text-align:center;font-size:24px;background:black"><b>Вудрус ~ <img src="sro.png" style="height:24px;vertical-align:sub"> <span style="color:#2f3b5c">Офис Тихая Месть</span></b></td>
+		<td colspan=2 style="text-align:center;font-size:24px;background:black"><b>Вудрус ~ <img src="sro.png" style="height:24px;vertical-align:sub"> <span style="color:#2f3b5c">Техник Офиса Тихая Месть</span> ~ #2F3B5C</b></td>
 	</tr>
 	<tr>
 		<td colspan=2><img src="wudrus-silent-revenge.png"></td>
@@ -94,7 +94,7 @@ draft: false
 		<td class=skill style="border:2px solid white">Техника дыхания ~ Вспомогательная пассивная способность.</td>
 	</tr>
 	<tr>
-		<td><b>Требует</b>: 3x <img src="pride.png" style="vertical-align:sub;height:20px">Гордыня<br>При изменении <span class="stG">Дыхание</span> на себе при помощи эффектов навыков, меняет <span class="stG">Хлам</span> на себе на <b>-3</b> для смены <span class="stG">Дыхание</span> на себе дополнительно на <b>+X:+1</b>, где <b>X</b> - первоначальное изменение соответствующего значения в навыке.</td>
+		<td><b>Требует</b>: 3x<img src="wrath.png" style="vertical-align:sub;height:20px">Гнев  2x<img src="pride.png" style="vertical-align:sub;height:20px">Гордыня<br>При изменении <span class="stG">Дыхание</span> на себе при помощи эффектов навыков, меняет <span class="stG">Хлам</span> на себе на <b>-3</b> для смены <span class="stG">Дыхание</span> на себе дополнительно на <b>+X:+1</b>, где <b>X</b> - первоначальное изменение соответствующего значения в навыке.</td>
 		<td><b>Требует</b>: 3x <img src="pride.png" style="vertical-align:sub;height:20px">Гордыня<br>Когда Работник меняет свой <span class="stG">Дыхание</span> на себе при помощи эффектов навыков, дополнительно меняет его на <b>+2:+1</b>.</td>
 	</tr>
 </table>

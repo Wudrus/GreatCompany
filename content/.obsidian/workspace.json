@@ -13,13 +13,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "silent_revenge_office/reflections/reflections/wudrus-silent-revenge.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "wudrus-silent-revenge"
-            }
+              "title": "index"
+            },
+            "group": "b01b91a4a27537a9"
+          }
+        ]
+      },
+      {
+        "id": "d1b5599242b0e37f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c562588b4ed03124",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            },
+            "group": "b01b91a4a27537a9"
           }
         ]
       }
@@ -90,7 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "silent_revenge_office/reflections/reflections/wudrus-silent-revenge.md",
+                "file": "index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -230,47 +252,31 @@
       "bases:Создать новую базу": false
     }
   },
-  "floating": {
-    "id": "19fcb8aefe8e7df7",
-    "type": "floating",
-    "children": [
-      {
-        "id": "888317f2d5e1922d",
-        "type": "window",
-        "children": [
-          {
-            "id": "4c1ec1149cc40b37",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "fdd811c66e6cae02",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "silent_revenge_office/reflections/reflections/wudrus-silent-revenge.md",
-                    "mode": "preview",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "wudrus-silent-revenge"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1038,
-        "y": 68,
-        "width": 600,
-        "height": 600,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "fdd811c66e6cae02",
+  "active": "f8e1f9cd46d37718",
   "lastOpenFiles": [
+    "silent_revenge_office/mechanics.md",
+    "silent_revenge_office/Отличия в механике.md",
+    "silent_revenge_office/reflections/reflections/wudrus-silent-revenge.md",
+    "silent_revenge_office/reflections/reflections/images/wudrus-silent-revenge.png.0.pdnSave",
+    "silent_revenge_office/reflections/index.md",
+    "silent_revenge_office/reflections/reflections/raven-silent-revenge.md",
+    "silent_revenge_office/reflections/reflections/koshak-silent-revenge.md",
+    "silent_revenge_office/reflections/reflections/wudrus-silent-revenge!.md",
+    "silent_revenge_office/reflections/reflections/raven-cinq.md",
+    "index.md",
+    "silent_revenge_office/neotes/reflections.md",
+    "silent_revenge_office/neotes/workers_documents/workers.md",
+    "silent_revenge_office/neotes/workers_documents/kari.md",
+    "silent_revenge_office/neotes/workers_documents/koshak.md",
+    "silent_revenge_office/neotes/workers_documents/boxser.md",
+    "silent_revenge_office/neotes/workers_documents/raven.md",
+    "silent_revenge_office/neotes/workers_documents/ugol.md",
+    "silent_revenge_office/neotes/workers_documents/wudrus.md",
+    "silent_revenge_office/neotes/workers_documents/tom.md",
+    "silent_revenge_office/neotes/workers_documents/neo.md",
+    "silent_revenge_office/neotes/factions.md",
+    "silent_revenge_office/neotes/neotes.md",
+    "story/neotes/neotes.md",
     "filez/limbus assets/coin.png",
     "filez/limbus assets/coin.png.0.pdnSave",
     "filez/limbus assets/counter.png",
@@ -282,7 +288,6 @@
     "filez/limbus assets/pride.png",
     "filez/limbus assets/gloom.png",
     "filez/limbus assets/gluttony.png",
-    "filez/limbus assets/sloth.png",
     "filez/limbus assets/res=.png.0.pdnSave",
     "filez/limbus assets/res++.png.0.pdnSave",
     "filez/limbus assets/res+.png.0.pdnSave",
@@ -291,31 +296,9 @@
     "filez/limbus assets/0.png.0.pdnSave",
     "filez/limbus assets/02.png.0.pdnSave",
     "filez/limbus assets/speed.png.0.pdnSave",
-    "filez/limbus assets/health.png.0.pdnSave",
-    "silent_revenge_office/reflections/reflections/wudrus-silent-revenge.md",
     "workers/Стандартные ЭГО.md",
     "silent_revenge_office/reflections/reflections/tom-silent-revenge.md",
-    "silent_revenge_office/reflections/reflections/raven-silent-revenge.md",
-    "silent_revenge_office/Отличия в механике.md",
     "silent_revenge_office/reflections/reflections/wudrus-citys-hands.md",
-    "silent_revenge_office/neotes/workers_documents/raven.md",
-    "silent_revenge_office/neotes/workers_documents/neo.md",
-    "silent_revenge_office/neotes/workers_documents/koshak.md",
-    "silent_revenge_office/neotes/workers_documents/kari.md",
-    "silent_revenge_office/neotes/workers_documents/boxser.md",
-    "workers/Зеркальные миры.md",
-    "workers/wudrus/wudrus-gg.md",
-    "workers/koshak/koshak-gg.md",
-    "story/neotes/Дресс-Код.md",
-    "story/neotes/Досье.md",
-    "silent_revenge_office/reflections/reflections/wudrus-tcorp.md",
-    "silent_revenge_office/reflections/reflections/wudrus-lcorp.md",
-    "silent_revenge_office/reflections/reflections/wudrus-sinner.md",
-    "silent_revenge_office/reflections/reflections/wudrus-oufi.md",
-    "silent_revenge_office/reflections/reflections/neo-citys-hands.md",
-    "silent_revenge_office/reflections/reflections/tom-citys-hands.md",
-    "silent_revenge_office/reflections/reflections/wudrus-cinq.md",
-    "silent_revenge_office/reflections/reflections/wudrus-dieci.md",
-    "silent_revenge_office/reflections/reflections/wudrus-great-group.md"
+    "workers/Зеркальные миры.md"
   ]
 }
