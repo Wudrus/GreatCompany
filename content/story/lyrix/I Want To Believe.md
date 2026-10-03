@@ -25,9 +25,9 @@ Will never allow to relieve.
 Stop trying  
 To reach the forbidden fruit.  
 You're lying  
-That's a thing coming from root.  
+That's a thing coming from the root.  
 I'm giving  
-The signs I'll never welcome.  
+The signs, that I'll never welcome.  
 Though going  
 To get led by this sick syndrome.
 # 2
@@ -52,11 +52,11 @@ Nor danger, nor shadows, nor the silence of that night
 Won't stop you helping me to relieve.
 
 Stop trying  
-To play cool, like I've got all of this.
+To play cool, like I've got all of this.  
 I'm lying,  
-When saying I don't need help, so please. 
+When saying I don't need help, so please.  
 You're giving  
-An opportunity to become more careless. 
+An opportunity to become more careless.  
 Though going  
 To double check everything, so restless.  
 
