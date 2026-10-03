@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "silent_revenge_office/neotes/workers_documents/workers.md",
+                "file": "silent_revenge_office/main_story/0_first_task/0-1_arrival.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "workers"
+              "title": "0-1_arrival"
             },
             "group": "b01b91a4a27537a9"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "silent_revenge_office/neotes/workers_documents/workers.md",
+                "file": "silent_revenge_office/main_story/0_first_task/0-1_arrival.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "workers"
+              "title": "0-1_arrival"
             },
             "group": "b01b91a4a27537a9"
           }
@@ -112,7 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "silent_revenge_office/neotes/workers_documents/workers.md",
+                "file": "silent_revenge_office/main_story/0_first_task/0-1_arrival.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -254,6 +254,7 @@
   },
   "active": "c562588b4ed03124",
   "lastOpenFiles": [
+    "silent_revenge_office/neotes/workers_documents/workers.md",
     "silent_revenge_office/neotes/neotes.md",
     "index.md",
     "silent_revenge_office/mechanics.md",
@@ -266,7 +267,6 @@
     "silent_revenge_office/reflections/reflections/wudrus-silent-revenge!.md",
     "silent_revenge_office/reflections/reflections/raven-cinq.md",
     "silent_revenge_office/neotes/reflections.md",
-    "silent_revenge_office/neotes/workers_documents/workers.md",
     "silent_revenge_office/neotes/workers_documents/kari.md",
     "silent_revenge_office/neotes/workers_documents/koshak.md",
     "silent_revenge_office/neotes/workers_documents/boxser.md",
