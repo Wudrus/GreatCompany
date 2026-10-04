@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "silent_revenge_office/lyrix/The Earth Beneath My Feet.md",
+                "file": "silent_revenge_office/lyrix/I See You.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Earth Beneath My Feet"
+              "title": "I See You"
             },
             "group": "b01b91a4a27537a9"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "silent_revenge_office/lyrix/The Earth Beneath My Feet.md",
+                "file": "silent_revenge_office/lyrix/I See You.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Earth Beneath My Feet"
+              "title": "I See You"
             },
             "group": "b01b91a4a27537a9"
           }
@@ -112,7 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "silent_revenge_office/lyrix/The Earth Beneath My Feet.md",
+                "file": "silent_revenge_office/lyrix/I See You.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -252,8 +252,10 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "c562588b4ed03124",
+  "active": "f8e1f9cd46d37718",
   "lastOpenFiles": [
+    "silent_revenge_office/lyrix/The Earth Beneath My Feet.md",
+    "silent_revenge_office/lyrix/I See You.md",
     "silent_revenge_office/main_story/0_first_task/0-1_arrival.md",
     "silent_revenge_office/neotes/workers_documents/workers.md",
     "silent_revenge_office/neotes/neotes.md",
@@ -297,8 +299,6 @@
     "filez/limbus assets/0.png.0.pdnSave",
     "filez/limbus assets/02.png.0.pdnSave",
     "filez/limbus assets/speed.png.0.pdnSave",
-    "workers/Стандартные ЭГО.md",
-    "silent_revenge_office/reflections/reflections/tom-silent-revenge.md",
-    "silent_revenge_office/reflections/reflections/wudrus-citys-hands.md"
+    "workers/Стандартные ЭГО.md"
   ]
 }
