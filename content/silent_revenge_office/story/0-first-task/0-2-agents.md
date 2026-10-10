@@ -38,7 +38,9 @@ draft: true
 ---
 
 > **Начало боя.**  
-> Доступны только Рэйвен, Боксер, Кошак и Кари в своих стандартных Отражениях.
+> Доступны только [[raven-silent-revenge|Рэйвен]], [[boxser-silent-revenge|Боксер]], [[koshak-silent-revenge|Кошак]] и [[kari-silent-revenge|Кари]] в своих стандартных Отражениях.
 
 ---
 ---
+
+[[0-1-arrival|<= 0 - 1 - Arrival | Прибытие]] - [[0-3-office-workers|0 - 3 - Office Workers | Офисники =>]]

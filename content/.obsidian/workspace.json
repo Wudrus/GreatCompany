@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "silent_revenge_office/lyrix/I See You.md",
+                "file": "silent_revenge_office/reflections/index-reflections.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "I See You"
+              "title": "index-reflections"
             },
             "group": "b01b91a4a27537a9"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "silent_revenge_office/lyrix/I See You.md",
+                "file": "silent_revenge_office/reflections/index-reflections.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "I See You"
+              "title": "index-reflections"
             },
             "group": "b01b91a4a27537a9"
           }
@@ -112,7 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "silent_revenge_office/lyrix/I See You.md",
+                "file": "silent_revenge_office/reflections/index-reflections.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -135,7 +135,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.713275462622442,
+                  "scale": 0.3628873693012117,
                   "close": true
                 }
               },
@@ -252,10 +252,24 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "f8e1f9cd46d37718",
+  "active": "c562588b4ed03124",
   "lastOpenFiles": [
-    "silent_revenge_office/lyrix/The Earth Beneath My Feet.md",
+    "silent_revenge_office/story/0-first-task/0-2-agents.md",
+    "silent_revenge_office/reflections/reflections/silent-revenge-office/kari-silent-revenge.md",
+    "silent_revenge_office/reflections/reflections/silent-revenge-office/koshak-silent-revenge.md",
+    "silent_revenge_office/reflections/reflections/silent-revenge-office/boxser-silent-revenge.md",
+    "silent_revenge_office/reflections/reflections/unsorted/neo-citys-hands.md",
+    "silent_revenge_office/reflections/reflections/unsorted",
+    "silent_revenge_office/reflections/index-reflections.md",
+    "silent_revenge_office/story/0-first-task/0-3-office-workers.md",
+    "silent_revenge_office/story/0-first-task/0-4-mistake.md",
+    "silent_revenge_office/story/0.1-check-up/0.1-1-the-problem.md",
+    "silent_revenge_office/story/0.1-check-up/0.1-2-deceive.md",
+    "silent_revenge_office/story/0.1-check-up/0.1-3-endure.md",
+    "silent_revenge_office/story/0.1-check-up/0.1-4-disorient.md",
+    "silent_revenge_office/story/0-first-task/0-1-arrival.md",
     "silent_revenge_office/lyrix/I See You.md",
+    "silent_revenge_office/lyrix/The Earth Beneath My Feet.md",
     "silent_revenge_office/main_story/0_first_task/0-1_arrival.md",
     "silent_revenge_office/neotes/workers_documents/workers.md",
     "silent_revenge_office/neotes/neotes.md",
@@ -264,22 +278,10 @@
     "silent_revenge_office/Отличия в механике.md",
     "silent_revenge_office/reflections/reflections/wudrus-silent-revenge.md",
     "silent_revenge_office/reflections/reflections/images/wudrus-silent-revenge.png.0.pdnSave",
-    "silent_revenge_office/reflections/index.md",
     "silent_revenge_office/reflections/reflections/raven-silent-revenge.md",
     "silent_revenge_office/reflections/reflections/koshak-silent-revenge.md",
     "silent_revenge_office/reflections/reflections/wudrus-silent-revenge!.md",
-    "silent_revenge_office/reflections/reflections/raven-cinq.md",
-    "silent_revenge_office/neotes/reflections.md",
-    "silent_revenge_office/neotes/workers_documents/kari.md",
-    "silent_revenge_office/neotes/workers_documents/koshak.md",
-    "silent_revenge_office/neotes/workers_documents/boxser.md",
-    "silent_revenge_office/neotes/workers_documents/raven.md",
-    "silent_revenge_office/neotes/workers_documents/ugol.md",
-    "silent_revenge_office/neotes/workers_documents/wudrus.md",
-    "silent_revenge_office/neotes/workers_documents/tom.md",
-    "silent_revenge_office/neotes/workers_documents/neo.md",
-    "silent_revenge_office/neotes/factions.md",
-    "story/neotes/neotes.md",
+    "silent_revenge_office/reflections/reflections/unsorted/raven-cinq.md",
     "filez/limbus assets/coin.png",
     "filez/limbus assets/coin.png.0.pdnSave",
     "filez/limbus assets/counter.png",
@@ -297,8 +299,6 @@
     "filez/limbus assets/res-.png.0.pdnSave",
     "filez/limbus assets/res--.png.0.pdnSave",
     "filez/limbus assets/0.png.0.pdnSave",
-    "filez/limbus assets/02.png.0.pdnSave",
-    "filez/limbus assets/speed.png.0.pdnSave",
-    "workers/Стандартные ЭГО.md"
+    "filez/limbus assets/02.png.0.pdnSave"
   ]
 }

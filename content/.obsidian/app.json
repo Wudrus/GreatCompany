@@ -3,5 +3,6 @@
   "strictLineBreaks": true,
   "showLineNumber": true,
   "promptDelete": false,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true
 }
