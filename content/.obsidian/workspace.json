@@ -13,33 +13,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "silent_revenge_office/neotes/workers_documents/anonum.md",
+                "file": "silent_revenge_office/reflections/reflections/silent-revenge-office/neo-silent-revenge.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "anonum"
-            }
+              "title": "neo-silent-revenge"
+            },
+            "group": "3dd113b36c71c570"
           }
         ]
       },
       {
-        "id": "a985d9c84f85c905",
+        "id": "1ad1f645296759f1",
         "type": "tabs",
         "children": [
           {
-            "id": "d805ae84aefce277",
+            "id": "db475ce43130b58b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "silent_revenge_office/neotes/workers_documents/wudrus.md",
-                "mode": "source",
+                "file": "silent_revenge_office/reflections/reflections/silent-revenge-office/neo-silent-revenge.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "wudrus"
-            }
+              "title": "neo-silent-revenge"
+            },
+            "group": "3dd113b36c71c570"
           }
         ]
       }
@@ -110,7 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "silent_revenge_office/neotes/workers_documents/anonum.md",
+                "file": "silent_revenge_office/reflections/reflections/silent-revenge-office/neo-silent-revenge.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "04013add372c329a",
@@ -252,10 +255,16 @@
   },
   "active": "f8e1f9cd46d37718",
   "lastOpenFiles": [
+    "silent_revenge_office/reflections/reflections/silent-revenge-office/image",
+    "silent_revenge_office/reflections/reflections/silent-revenge-office/wudrus-silent-revenge.md",
+    "silent_revenge_office/reflections/reflections/silent-revenge-office/neo-silent-revenge.md",
+    "silent_revenge_office/reflections/reflections/silent-revenge-office/raven-silent-revenge.md",
+    "silent_revenge_office/reflections/index-reflections.md",
+    "silent_revenge_office/reflections/reflections/silent-revenge-office/ugol-silent-revenge.md",
+    "silent_revenge_office/reflections/reflections.base",
+    "silent_revenge_office/neotes/workers_documents/anonum.md",
     "silent_revenge_office/neotes/workers_documents/neo.md",
     "silent_revenge_office/reflections/reflections/silent-revenge-office/anonum-silent-revenge.md",
-    "silent_revenge_office/reflections/index-reflections.md",
-    "silent_revenge_office/reflections/reflections/silent-revenge-office/wudrus-silent-revenge.md",
     "silent_revenge_office/neotes/workers_documents/wudrus.md",
     "silent_revenge_office/neotes/workers_documents/workers.md",
     "silent_revenge_office/story/0-first-task/0-2-agents.md",
@@ -274,11 +283,6 @@
     "silent_revenge_office/lyrix/I See You.md",
     "silent_revenge_office/lyrix/The Earth Beneath My Feet.md",
     "silent_revenge_office/main_story/0_first_task/0-1_arrival.md",
-    "silent_revenge_office/neotes/neotes.md",
-    "index.md",
-    "silent_revenge_office/mechanics.md",
-    "silent_revenge_office/Отличия в механике.md",
-    "silent_revenge_office/reflections/reflections/wudrus-silent-revenge.md",
     "silent_revenge_office/reflections/reflections/images/wudrus-silent-revenge.png.0.pdnSave",
     "filez/limbus assets/coin.png",
     "filez/limbus assets/coin.png.0.pdnSave",
@@ -296,7 +300,6 @@
     "filez/limbus assets/res+.png.0.pdnSave",
     "filez/limbus assets/res-.png.0.pdnSave",
     "filez/limbus assets/res--.png.0.pdnSave",
-    "filez/limbus assets/0.png.0.pdnSave",
-    "filez/limbus assets/02.png.0.pdnSave"
+    "filez/limbus assets/0.png.0.pdnSave"
   ]
 }
