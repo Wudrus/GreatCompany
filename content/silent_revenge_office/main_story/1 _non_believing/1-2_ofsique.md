@@ -3,6 +3,7 @@ completion: true
 title: 1-2 Ofsique | Офсикью
 description: Офис прибывает к заказчику и встречает халатного охранника.
 category: Собрание
+draft: true
 ---
 
 Мы прибыли к зданию, в котором располагается Fobmandis Inc.  

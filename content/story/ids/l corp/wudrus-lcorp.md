@@ -1,3 +1,6 @@
+---
+draft: true
+---
 Отдел Информации.
 # ЭГО Экипировка
 Костюм: The Sword Sharpened with Tears (The Knight of Despair)  

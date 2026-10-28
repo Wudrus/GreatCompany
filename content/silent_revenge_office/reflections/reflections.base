@@ -1,0 +1,97 @@
+formulas:
+  Название: file.asLink(file.properties.title)
+  Иконка: image(file.name+".png")
+properties:
+  note.projection:
+    displayName: Проекция
+  note.worker:
+    displayName: Работник
+  note.color:
+    displayName: Цвет
+views:
+  - type: table
+    name: Проекция
+    filters:
+      and:
+        - file.inFolder("silent_revenge_office/reflections/reflections")
+        - file.folder != "silent_revenge_office/reflections/reflections/images"
+        - file.name.contains("-")
+    groupBy:
+      property: projection
+      direction: ASC
+    order:
+      - worker
+      - formula.Название
+      - color
+      - projection
+    columnSize:
+      formula.Название: 219
+      note.color: 202
+      note.projection: 241
+    rowHeight: medium
+  - type: table
+    name: Работники
+    filters:
+      and:
+        - file.inFolder("silent_revenge_office/reflections/reflections")
+        - file.folder != "silent_revenge_office/reflections/reflections/images"
+        - file.name.contains("-")
+    groupBy:
+      property: worker
+      direction: ASC
+    order:
+      - worker
+      - formula.Название
+      - color
+      - projection
+    sort:
+      - property: projection
+        direction: ASC
+    columnSize:
+      formula.Название: 331
+      note.color: 202
+    rowHeight: medium
+  - type: cards
+    name: Проекция Карточки (НЕ РАБОТАЕТ)
+    filters:
+      and:
+        - file.inFolder("silent_revenge_office/reflections/reflections")
+        - file.folder != "silent_revenge_office/reflections/reflections/images"
+        - file.name.contains("-")
+    groupBy:
+      property: projection
+      direction: ASC
+    order:
+      - worker
+      - formula.Название
+      - color
+      - projection
+    columnSize:
+      formula.Название: 219
+      note.color: 202
+      note.projection: 241
+    rowHeight: medium
+    image: formula.Иконка
+  - type: cards
+    name: Работники Карточки (НЕ РАБОТАЕТ)
+    filters:
+      and:
+        - file.inFolder("silent_revenge_office/reflections/reflections")
+        - file.folder != "silent_revenge_office/reflections/reflections/images"
+        - file.name.contains("-")
+    groupBy:
+      property: worker
+      direction: ASC
+    order:
+      - worker
+      - formula.Название
+      - color
+      - projection
+    sort:
+      - property: projection
+        direction: ASC
+    columnSize:
+      formula.Название: 331
+      note.color: 202
+    rowHeight: medium
+    image: formula.Иконка
